@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (kinflux bot v2)",
+  "name": "wabot",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/diggilly/kinflux_bot_god_v2",
+  "repository": "https://github.com/Nicholas-nyak/Wabot",
   "stack": "container",
   "env": {
     "OPENAI_API_KEY": {
