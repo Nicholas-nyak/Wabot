@@ -1,5 +1,5 @@
 { 
-    "name": "kinflux bot",
+    "name": "wabot",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -19,19 +19,19 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        
+        
         "multi-device",
         "MD",
-        "baileys-md"
+        
     ],
-    "homepage": "https://github.com/diggilly/Kinflux_bot_god_v2",
+    "homepage": "https://github.com/Nicholas-nyak/Wabot",
     "author": {
-        "name": "kinflux digital"
+        "name": "wabot digital"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/diggilly/Kinflux_bot_god_v2.git"
+        "url": "git+https://github.com/Nicholas-nyak/Wabot"
     },
     "bugs": {
         "url": "https://github.com/diggilly/Kinflux_bot_god_v2/issues"
